@@ -21,6 +21,8 @@ institute_type_entered=input('Enter the type of institute')
 print("Fetching the data for you")
 
 #navigating to the JOSAA website
+# this link is only for the data of 2016-2022 
+# for data of 2023 use 'https://josaa.admissions.nic.in/applicant/SeatAllotmentResult/CurrentORCR.aspx'
 driver.get('https://josaa.admissions.nic.in/applicant/seatmatrix/OpeningClosingRankArchieve.aspx')
 
 # make the  dropdown visible first then select
