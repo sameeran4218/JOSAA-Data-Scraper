@@ -27,7 +27,7 @@ driver.get('https://josaa.admissions.nic.in/applicant/seatmatrix/OpeningClosingR
 
 # make the  dropdown visible first then select
 
-#select the year
+#select the year , if you are looking for 2023 data only then no need to select the year
 driver.execute_script("document.getElementById('ctl00_ContentPlaceHolder1_ddlYear').style.display = 'block';")
 year_no=driver.find_element(By.ID,'ctl00_ContentPlaceHolder1_ddlYear')
 select_year_no=Select(year_no)
