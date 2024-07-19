@@ -16,4 +16,3 @@ This project aims to scrape JOSAA (Joint Seat Allocation Authority) data, extrac
 
 This JOSAA Data Scraper project is an efficient tool for extracting and organizing crucial seat allocation data from the JOSAA website based on user inputs. By leveraging the power of Selenium, BeautifulSoup, and Pandas, this script automates the process of data collection and ensures the data is saved in a structured format for easy analysis and further use.
 
-Feel free to contribute to this project by submitting issues or pull requests on our [GitHub repository](https://github.com/yourusername/josaa-data-scraper). Happy scraping!
