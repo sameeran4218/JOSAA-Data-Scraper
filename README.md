@@ -3,7 +3,7 @@
 ## Project Description
 
 This project aims to scrape JOSAA (Joint Seat Allocation Authority) data, extracting information such as the institute name, round, year, branch, gender, quota, seat type, opening rank, and closing rank based on user input. The project utilizes Selenium to interact with the JOSAA website and BeautifulSoup to scrape the necessary data. The extracted data is then organized into a Pandas DataFrame and saved to a CSV file for further analysis.
-- This project is a subpart of the JOSAA_Data_Analysis Project which uses this extracted data to plot grahs/charts to demonstrate the trends in cutoffs on a web app
+- This project is a subpart of the [JOSAA_Data_Analysis](https://github.com/blossomedinautumn/JOSAA_DataAnalysis) which uses this extracted data to plot grahs/charts to demonstrate the trends in cutoffs on a web app
 
 ## Tech Stack
 
